@@ -37,7 +37,6 @@ ol {
   white-space: nowrap;
 }
 
-/* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
@@ -72,8 +71,6 @@ ol {
   inline-size: 1200px;
   block-size: 100%;
 }
-
-/*Контент*/
 
 .content {
   display: flex;
@@ -240,8 +237,6 @@ input[type="text"] {
   width: 100%;
   flex-shrink: 0;
 }
-
-/*Список Посмотри в окно*/
 
 .content__details {
   display: flex;
